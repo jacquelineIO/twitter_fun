@@ -32,4 +32,4 @@ Local news article talking about the data:
 
 ## Twitter API
 To use the Twitter API go to https://dev.twitter.com/apps/new and
-create your app to get the keys/secrets need to the run the script.
+create your app to get the keys/secrets needed to the run the script.
